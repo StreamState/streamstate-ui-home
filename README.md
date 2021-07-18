@@ -1,4 +1,5 @@
 # stream-state-ui
+Repo will be used for marketing and client subscription management.
 
 ## Project setup
 ```
